@@ -1,0 +1,12 @@
+[submodule "components/cmyk-system"]
+	path = components/cmyk-system
+	url = git@github.com:chrisntb/cmyk-system.git
+	branch = main
+[submodule "components/cmyk-svc"]
+	path = components/cmyk-svc
+	url = git@github.com:chrisntb/cmyk-svc.git
+	branch = main
+[submodule "components/cmyk-app"]
+	path = components/cmyk-app
+	url = git@github.com:chrisntb/cmyk-app.git
+	branch = main

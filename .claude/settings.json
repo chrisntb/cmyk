@@ -1,0 +1,16 @@
+{
+  "model": "sonnet",
+  "permissions": {
+    "deny": [
+      "Read(.git)",
+      "Glob(.git)",
+      "Grep(.git)",
+      "Read(.secrets)",
+      "Glob(.secrets)",
+      "Grep(.secrets)",
+      "Read(tmp)",
+      "Glob(tmp)",
+      "Grep(tmp)"
+    ]
+  }
+}
